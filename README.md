@@ -51,3 +51,4 @@ FROM clientes
 JOIN apolices ON clientes.id_cliente = apolices.id_cliente
 WHERE apolices.status = 'ativa';
 ```
+
