@@ -1,4 +1,4 @@
-# Testes Automatizados - Portal de Comércio Online 🌐
+# Desafio Klok (Teste de Automação Web) - Portal de Comércio Online 🌐
 
 ## Estrutura do Projeto 🛠️
 
